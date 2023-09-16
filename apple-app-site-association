@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.example.deepLinkDemo",
+        "appID": "*.com.example.deepLinkDemo",
         "paths": ["*"]
       }
     ]
